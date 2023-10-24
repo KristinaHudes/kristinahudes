@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **TypeScript**, **React**
 - 📄 Know about my experiences [CV](https://kristina-russkikh-cv.netlify.app/)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/kristinarusskikh/), [Telegram](https://t.me/kristinahudes), [email](mailto:k.n.russkikh@gmail.com)
-- 🌍 I speak Russian, English, German
+- 🌍 I speak **Russian** (native speaker), **English** (proficient), **German** (pre-intermediate)
 
 ---
 
@@ -30,6 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="github" width="40" height="40"/>
 
 ---
 
