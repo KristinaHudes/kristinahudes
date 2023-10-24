@@ -4,10 +4,10 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="[linkedin-url](https://www.linkedin.com/in/kristinarusskikh/)">
+    <a href="https://www.linkedin.com/in/kristinarusskikh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[telegram-url](https://t.me/kristinahudes)">
+  <a href="https://t.me/kristinahudes" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-darkgreen?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
