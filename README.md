@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=KristinaHudes&color=red&style=flat-square)
+[![wakatime](https://wakatime.com/badge/user/018bb0fc-fd94-4e7b-a944-7253c163fe27.svg)](https://wakatime.com/@018bb0fc-fd94-4e7b-a944-7253c163fe27) 
+![](https://komarev.com/ghpvc/?username=KristinaHudes&color=red&)
+
 <div id="header" align="center">
     <h1>Hi! I'm  Kristina </h1>
     <h3>Front End Developer</h3>
