@@ -1,7 +1,7 @@
+![](https://komarev.com/ghpvc/?username=KristinaHudes&color=red&style=flat-square)
 <div id="header" align="center">
     <h1>Hi! I'm  Kristina </h1>
     <h3>Front End Developer</h3>
-    
 </div>
 
 <div id="socials" align="center">
