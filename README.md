@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/018bb0fc-fd94-4e7b-a944-7253c163fe27.svg)](https://wakatime.com/@018bb0fc-fd94-4e7b-a944-7253c163fe27) 
+[![wakatime](https: //wakatime.com/badge/user/018bb0fc-fd94-4e7b-a944-7253c163fe27.svg)](https://wakatime.com/@018bb0fc-fd94-4e7b-a944-7253c163fe27) 
 ![](https://komarev.com/ghpvc/?username=KristinaHudes&color=red&)
 
 <div id="header" align="center">
