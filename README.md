@@ -1,5 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/018bb0fc-fd94-4e7b-a944-7253c163fe27.svg)](https://wakatime.com/@018bb0fc-fd94-4e7b-a944-7253c163fe27) 
 ![](https://komarev.com/ghpvc/?username=KristinaHudes&color=red&)
+![](https://www.codewars.com/users/rsschool_42824ff8cf7e1d57/badges/micro)
+
 
 <div id="header" align="center">
     <h1>Hi! I'm  Kristina </h1>
