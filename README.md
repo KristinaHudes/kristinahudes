@@ -19,7 +19,7 @@
 
 ### About me
 - 🌱 I’m currently learning **TypeScript**, **React**
-- 📄 Know about my experiences [CV](https://kristina-russkikh-cv.netlify.app/)
+- 📄 Know about my experiences [CV](https://kristinahudes-cv.netlify.app/)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/kristinarusskikh/), [Telegram](https://t.me/kristinahudes), [Email](mailto:k.n.russkikh@gmail.com)
 - 🌍 I speak **Russian** (native speaker), **English** (proficient), **German** (pre-intermediate)
 
