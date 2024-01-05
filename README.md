@@ -5,7 +5,7 @@
 
 <div id="header" align="center">
     <h1>Hi! I'm  Kristina </h1>
-    <h3>Front End Developer</h3>
+    <h3>Frontend Developer</h3>
 </div>
 
 <div id="socials" align="center">
